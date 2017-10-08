@@ -1,0 +1,16 @@
+C:\Users\Jose Bejarano\Desktop\practica5\practica5\bin\Debug\practica5.exe.config
+C:\Users\Jose Bejarano\Desktop\practica5\practica5\bin\Debug\practica5.exe
+C:\Users\Jose Bejarano\Desktop\practica5\practica5\bin\Debug\practica5.pdb
+C:\Users\Jose Bejarano\Desktop\practica5\practica5\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\Jose Bejarano\Desktop\practica5\practica5\obj\Debug\Vista.frmBusquedaProductoPresentacion.resources
+C:\Users\Jose Bejarano\Desktop\practica5\practica5\obj\Debug\Vista.frmBusquedaPromocion.resources
+C:\Users\Jose Bejarano\Desktop\practica5\practica5\obj\Debug\Vista.frmRegistrarProducto.resources
+C:\Users\Jose Bejarano\Desktop\practica5\practica5\obj\Debug\practica5.Properties.Resources.resources
+C:\Users\Jose Bejarano\Desktop\practica5\practica5\obj\Debug\Vista.csproj.GenerateResource.Cache
+C:\Users\Jose Bejarano\Desktop\practica5\practica5\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Jose Bejarano\Desktop\practica5\practica5\obj\Debug\practica5.exe
+C:\Users\Jose Bejarano\Desktop\practica5\practica5\obj\Debug\practica5.pdb
+C:\Users\Jose Bejarano\Desktop\practica5\practica5\bin\Debug\AccesoDatos.dll
+C:\Users\Jose Bejarano\Desktop\practica5\practica5\bin\Debug\Modelo.dll
+C:\Users\Jose Bejarano\Desktop\practica5\practica5\bin\Debug\AccesoDatos.pdb
+C:\Users\Jose Bejarano\Desktop\practica5\practica5\bin\Debug\Modelo.pdb

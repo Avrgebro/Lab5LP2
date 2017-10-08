@@ -1,0 +1,9 @@
+c:\users\freddy\documents\visual studio 2017\Projects\practica5\practica5\bin\Debug\practica5.exe.config
+c:\users\freddy\documents\visual studio 2017\Projects\practica5\practica5\bin\Debug\practica5.exe
+c:\users\freddy\documents\visual studio 2017\Projects\practica5\practica5\bin\Debug\practica5.pdb
+c:\users\freddy\documents\visual studio 2017\Projects\practica5\practica5\obj\Debug\practica5.csprojResolveAssemblyReference.cache
+c:\users\freddy\documents\visual studio 2017\Projects\practica5\practica5\obj\Debug\practica5.Form1.resources
+c:\users\freddy\documents\visual studio 2017\Projects\practica5\practica5\obj\Debug\practica5.Properties.Resources.resources
+c:\users\freddy\documents\visual studio 2017\Projects\practica5\practica5\obj\Debug\practica5.csproj.GenerateResource.Cache
+c:\users\freddy\documents\visual studio 2017\Projects\practica5\practica5\obj\Debug\practica5.exe
+c:\users\freddy\documents\visual studio 2017\Projects\practica5\practica5\obj\Debug\practica5.pdb
